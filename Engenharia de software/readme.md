@@ -3,3 +3,8 @@ Atividade 1:
 
 Atividade 2: 
  -Compreendo que a engenharia de software englobe todos os processos de criação de um código, mas vai além de escrever ele, mas sim como ele vai se manter depois de pronto, como ele se adaptara com o passar do tempo, onde ele será colocado, uma frase que reflete isso é “programming integrated over time.”
+
+Atividade 3:
+ -Windows x Linux : Compatibilidade/facilidade x desempenho/personalização
+ -Google Chrome x Mozilla Firefox : integração/ecossistema x segurança/privacidade
+ -Android x IOS : liberdade/personalização/variedade x integração/controle :

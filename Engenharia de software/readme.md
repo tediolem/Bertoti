@@ -1,12 +1,19 @@
-Atividade 1:
- -Engenharia de software vai além do que se entende de engenharia, nela não se e necessário um conhecimento teórico gigantesco para que se aplique, ate pq o erro de um engenheiro de software não causa danos reais, diferentemente de um erro cometido por um engenheiro aeronáutico, mas isso não significa que, não devemos ter métodos mais rigorosos principalmente pois ela esta cada dia mais integrada a nossa vida. 
+Atividade 1 – A importância da Engenharia de Software
 
-Atividade 2: 
- -Compreendo que a engenharia de software englobe todos os processos de criação de um código, mas vai além de escrever ele, mas sim como ele vai se manter depois de pronto, como ele se adaptara com o passar do tempo, onde ele será colocado, uma frase que reflete isso é “programming integrated over time.”
+A Engenharia de Software vai além do conceito tradicional de engenharia. Sua aplicação não exige necessariamente um conhecimento teórico tão extenso quanto em outras áreas, já que um erro cometido por um engenheiro de software nem sempre causa danos físicos ou imediatos, diferentemente de um erro na engenharia aeronáutica, por exemplo.
 
-Atividade 3:
-<ul>
- <li>Windows x Linux : Compatibilidade/facilidade x desempenho/personalização</li>
- <li>Google Chrome x Mozilla Firefox : integração/ecossistema x segurança/privacidade</li>
- <li>Android x IOS : liberdade/personalização/variedade x integração/controle :</li>
-</ul>
+Entretanto, isso não significa que devemos deixar de lado métodos e práticas rigorosas. Pelo contrário, como o software está cada vez mais integrado ao nosso cotidiano, torna-se essencial desenvolver sistemas com qualidade, segurança e confiabilidade.
+
+Atividade 2 – O que é Engenharia de Software?
+
+Compreendo que a Engenharia de Software engloba todos os processos envolvidos na criação de um código, mas vai muito além de simplesmente escrevê-lo. Ela também envolve pensar em como o software será mantido após sua conclusão, como poderá se adaptar às mudanças ao longo do tempo e em qual ambiente será utilizado
+
+Atividade 3 – Comparação entre tecnologias
+
+As tecnologias apresentam diferentes características, objetivos e propostas de utilização. Algumas priorizam a facilidade de uso e a integração, enquanto outras oferecem maior liberdade e possibilidades de personalização.
+
+Windows x Linux: O Windows se destaca pela facilidade de uso, compatibilidade com softwares e ampla variedade de jogos e programas. Já o Linux oferece maior liberdade de personalização, controle do sistema e possibilidades de otimização.
+
+Google Chrome x Mozilla Firefox: O Google Chrome se destaca pela integração com os serviços do Google, sincronização entre dispositivos e compatibilidade com diferentes sites. O Mozilla Firefox, por outro lado, tem como diferenciais o foco na privacidade, a proteção contra rastreamento e as opções de personalização.
+
+Android x iOS: O Android oferece maior liberdade de personalização, variedade de dispositivos e flexibilidade na utilização do sistema. O iOS prioriza a integração entre os dispositivos Apple, a padronização da experiência e o maior controle sobre o ecossistema.
